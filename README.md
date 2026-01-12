@@ -31,8 +31,8 @@ The scripts and notebooks here reproduce the training runs and figures reported 
 
 ### Install
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_NAME>
+git clone https://github.com/MaxLeekj/cho-bioreactor-hybrid-model.git
+cd cho-bioreactor-hybrid-model
 
 python -m venv .venv
 # Windows:
