@@ -6,23 +6,7 @@ This repository contains the code used in my thesis on hybrid modelling of Chine
 - neural networks for time-conditioned prediction of viable cell density and pseudo-reaction rates,
 - reconstruction of concentration trajectories and diagnostic visualisations.
 
-The scripts and notebooks here reproduce the training runs and figures reported in the thesis.
-
-## Repository structure
-- `data/`
-  - (optional) saved datasets, model-ready arrays, scalers
-- `notebooks/`
-  - exploratory analysis, quick experiments, figure reproduction
-- `src/`
-  - core functions (simulation, preprocessing, training, evaluation)
-- `scripts/`
-  - runnable pipelines (generate data, train models, plot results)
-- `models/`
-  - saved model checkpoints / weights
-- `figures/`
-  - exported plots used in the thesis
-- `reports/`
-  - metric tables, logs, and run summaries
+The <Combined_Xv+q_pred.ipynb> notebook here reproduce the training runs and figures reported in the thesis.
 
 ## Setup
 ### Requirements
